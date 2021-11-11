@@ -2,7 +2,7 @@
 My fork of the dynamic window manager
 
 # about
-Read the [official dwm site](https://suckless.org/dwm) for basic info on dwm.
+Read the [official dwm site](https://dwm.suckless.org) for basic info on dwm.
 
 # patches
 Applied patches are inside the patches folder.
