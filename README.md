@@ -13,3 +13,10 @@ Read the [official dwm site](https://dwm.suckless.org) for basic info on dwm.
 
 # bindings
 This fork uses the default keybindings for almost everything. You can add custom keybindings to the source code or use a program like xbindkeys.
+
+# compiling
+```
+git clone https://github.com/selenascafe/dwm
+cd dwm
+doas make install
+```
